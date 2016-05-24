@@ -1,0 +1,43 @@
+   body{
+   	color: blue;
+   }   
+
+   p.red{
+        color: red;
+        background color: green;
+    }
+
+   p.green{
+   	color: green;
+   }
+
+   p#orange {
+   	color: orange;
+   }
+    h1{
+        color:blue;
+        background color: yellow;
+    }
+
+   .guarantee {
+	/*width: 30%;*/
+	padding: 10%; 
+	/* line-height: 40px; */
+  text-align: center;
+	padding-left:20%;
+
+	border-color: black;
+	border-width: 1px;
+	border-style: dashed;
+	border: dashed 1px #ffffff;
+	
+  background-color:#a7cece;
+	background-image: url(./images/star.png);
+  background-size:100px 100px;
+	background-position: top-left;
+	background-repeat: no-repeat;
+  
+	padding:50px;
+	margin:50px;
+	/*margin:auto; *//* put doc center */
+}

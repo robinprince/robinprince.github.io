@@ -1,0 +1,20 @@
+   body{
+   	color: blue;
+   }   
+
+   p{
+        color: red;
+        background color: green;
+    }
+
+   p.green{
+   	color: green;
+   }
+
+   p#orange {
+   	color: orange;
+   }
+    h1{
+        color:blue;
+        background color: yellow;
+    }
